@@ -36,4 +36,9 @@ in the HTML
 
 - I ensured that all of the title elements were given a concise and descriptive title, that essentially matched the alt attributes.
 
-Lessons i have learned in todays lesson is that github is very difficult. Thankyou to our TA Sara Benchinoun, for helping me to deploy this website.
+## Lessons Learned
+
+The teachings I have learned in today's lesson are that GitHub is very difficult and that it will require further study to become proficient and confident in using it. Thank you to our TA Sara Benchinoun, for helping me to deploy this website, due to misunderstandings of the concepts of 'main' and 'master'.
+
+I also altered CSS attributes, even though not necessarily required to do so, to allow the aside column to fit to the side of the main content - this displays reasonably correctly on all four of my monitors, but not on my mobile device. 
+The aforementioned changes are mentioned in the comments in the CSS file. The .body CSS attribute had its padding and margin reduced to 0px as well to ensure it was flush against the sides of the browser window aswell.
