@@ -6,6 +6,10 @@ nav {
 
 body {
     background-color: #d9dcd6;
+    padding:0;/* #1 added padding and margin 0 to make the image flush to the side of the page*/
+    margin:0;
+    margin-left: -10px; /*except for here it bought it to the left a bit*/
+ 
 }
 
 .header {
@@ -53,7 +57,7 @@ p {
 .hero {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 10px;/* #1 was 25px*/
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -76,7 +80,7 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
+    margin-right: 10px; /* #1changed to 10 px, seems to display on most of my monitors*/
     padding: 20px;
     clear: both;
     float: right;
@@ -135,7 +139,7 @@ p {
 }
 
 .search-engine-optimization {
-    margin-bottom: 20px;
+    margin-bottom: 10px;/* #1 was 25px*/
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -144,7 +148,7 @@ p {
 }
 
 .online-reputation-management {
-    margin-bottom: 20px;
+    margin-bottom: 10px;/* #1 was 25px*/
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
