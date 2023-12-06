@@ -36,4 +36,4 @@ in the HTML
 
 - I ensured that all of the title elements were given a concise and descriptive title, that essentially matched the alt attributes.
 
-Lessons i have learned in todays lesson is that github is very difficult. Thankyou to our TA Sara Benchinoun.
+Lessons i have learned in todays lesson is that github is very difficult. Thankyou to our TA Sara Benchinoun, for helping me to deploy this website.
