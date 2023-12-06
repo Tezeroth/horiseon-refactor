@@ -41,4 +41,4 @@ in the HTML
 The teachings I have learned in today's lesson are that GitHub is very difficult and that it will require further study to become proficient and confident in using it. Thank you to our TA Sara Benchinoun, for helping me to deploy this website, due to misunderstandings of the concepts of 'main' and 'master'.
 
 I also altered CSS attributes, even though not necessarily required to do so, to allow the aside column to fit to the side of the main content - this displays reasonably correctly on all four of my monitors, but not on my mobile device. 
-The aforementioned changes are mentioned in the comments in the CSS file. The .body CSS attribute had its padding and margin reduced to 0px as well to ensure it was flush against the sides of the browser window aswell.
+The aforementioned changes are mentioned in the comments in the CSS file. The .body CSS attribute had its padding and margin reduced to 0px as well to ensure that the 'hero' landing image and header/nav bar were flush against the sides of the browser window as well.
